@@ -7,7 +7,7 @@ public class EvenOdd {
 		//System.out.print("Enter: ");
 		int input = s.nextInt();
 		if (input%2==0) {
-			System.out.print(n+ " is Even number");
+			System.out.print(n+ " is Even numbeer");
 		}else {
 			System.out.print(n+" is Odd number");
 		}
