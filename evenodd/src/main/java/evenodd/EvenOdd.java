@@ -7,9 +7,9 @@ public class EvenOdd {
 		//System.out.print("Enter: ");
 		int input = s.nextInt();
 		if (input%2==0) {
-			System.out.print("Even");
+			System.out.print("Even number");
 		}else {
-			System.out.print("Odd");
+			System.out.print("Odd number");
 		}
 		s.close();
 	}
