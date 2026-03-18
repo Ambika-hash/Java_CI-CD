@@ -7,9 +7,9 @@ public class EvenOdd {
 		Scanner s = new Scanner(System.in);
 		int input = s.nextInt();
 		if (input % 2 == 0) {
-			System.out.print(n+ " is even numbeer");
+			System.out.print(" is even numbeer");
 		}else {
-			System.out.print(n +" is Odd numbe89r");
+			System.out.print(" is Odd numbe89r");
 		}
 		s.close();
 	}
